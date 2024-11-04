@@ -1,4 +1,4 @@
-# ChatGPT官网中文入口（2024/10/18）
+# ChatGPT中文版镜像网站整理（2024/11月持续更新）
 ChatGPT自从2023年2月发布GPT4之后，一直引领着时代的潮流。但是国内没办法访问官网，而且就算访问了官网也经常面临被封号、cf验证、看不懂等很多麻烦的步骤。所以今天给大家分享一些国内中文版的ChatGPT镜像站！
 
 ## ChatGPT中文版站点的好处
@@ -19,7 +19,7 @@ ChatGPT自从2023年2月发布GPT4之后，一直引领着时代的潮流。但�
 | 序号 | 域名 | 标签  | 推荐指数 | 
 | --- | --- | --- | --- |
 | 1 | [https://snakegpt.work](https://snakegpt.work) | 🆓👍✨📂🌏 | ⭐⭐⭐⭐⭐ |
-| 2 | [https://gptcat.top/](https://gptcat.top/login?invite_code=616f9567) | 🆓👍📂🌏 | ⭐⭐⭐⭐⭐ |
+| 2 | [https://gptcat.net](https://gptcat.net/)/ | 🆓👍📂🌏 | ⭐⭐⭐⭐⭐ |
 | 3 | [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47) | 🆓👍📂🌏 | ⭐⭐⭐⭐ |
 | 4 | [https://snakegpt.work?inVitecode=PUWFCNERUN](https://snakegpt.work?inVitecode=PUWFCNERUN) | 🆓👍✨📂🌏 | ⭐⭐⭐⭐ |
 | 5 | [poe.com](https://poe.com) | 🆓👍📂 | ⭐⭐⭐ |
