@@ -19,7 +19,7 @@ ChatGPT自从2023年2月发布GPT4之后，一直引领着时代的潮流。但�
 | 序号 | 域名 | 标签  | 推荐指数 | 
 | --- | --- | --- | --- |
 | 1 | [https://snakegpt.work](https://snakegpt.work) | 🆓👍✨📂🌏 | ⭐⭐⭐⭐⭐ |
-| 2 | [https://gptcat.net](https://gptcat.net/)/ | 🆓👍📂🌏 | ⭐⭐⭐⭐⭐ |
+| 2 | [https://gptcat.net](https://gptcat.net/) | 🆓👍📂🌏 | ⭐⭐⭐⭐⭐ |
 | 3 | [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47) | 🆓👍📂🌏 | ⭐⭐⭐⭐ |
 | 4 | [https://snakegpt.work?inVitecode=PUWFCNERUN](https://snakegpt.work?inVitecode=PUWFCNERUN) | 🆓👍✨📂🌏 | ⭐⭐⭐⭐ |
 | 5 | [poe.com](https://poe.com) | 🆓👍📂 | ⭐⭐⭐ |
